@@ -75,7 +75,7 @@ repo sync -j$(nproc)
 ### 3. Clone device tree
 
 ```bash
-git clone https://github.com/ArifSanaworr/android_device_xiaomi_laurel_sprout.git \
+git clone https://github.com/romreviewer/android_device_xiaomi_laurel_sprout.git \
     -b twrp-14.1 device/xiaomi/laurel_sprout
 ```
 
@@ -229,7 +229,7 @@ This fork includes significant modifications to support Android 15 (LineageOS 22
 
 - **XDA Thread:** [Coming Soon]
 - **Telegram:** [Coming Soon]
-- **Issues:** [GitHub Issues](https://github.com/ArifSanaworr/android_device_xiaomi_laurel_sprout/issues)
+- **Issues:** [GitHub Issues](https://github.com/romreviewer/android_device_xiaomi_laurel_sprout/issues)
 
 ---
 
