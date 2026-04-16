@@ -206,7 +206,7 @@ TW_INCLUDE_FBE_METADATA_DECRYPT := true
 This device tree is based on the original work by the OrangeFox Recovery team.
 Full credit goes to the original authors for the foundational device tree structure.
 
-- **Original Device Tree:** [OrangeFox Recovery - laurel_sprout](https://github.com/nicklasb/android_device_xiaomi_laurel_sprout)
+- **Original Device Tree:** [OrangeFox Recovery - laurel_sprout](https://github.com/OrangeFoxRecovery/device_xiaomi_laurel_sprout)
 
 ### Modifications for Android 15
 This fork includes significant modifications to support Android 15 (LineageOS 22.2):
@@ -219,7 +219,7 @@ This fork includes significant modifications to support Android 15 (LineageOS 22
 ### Special Thanks
 - [**TeamWin**](https://twrp.me/) - TWRP Recovery Project
 - [**OrangeFox Team**](https://orangefox.download/) - Original device tree & OrangeFox Recovery
-- [**nicklasb**](https://github.com/nicklasb) - Original device tree maintainer
+- [**OrangeFox Recovery**](https://github.com/OrangeFoxRecovery) - Original device tree maintainer
 - [**LineageOS Team**](https://lineageos.org/) - Crypto binaries for decryption
 - [**Xiaomi**](https://www.mi.com/) - Device manufacturer
 
